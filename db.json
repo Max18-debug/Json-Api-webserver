@@ -1,0 +1,39 @@
+{
+  "technieken": [
+    {
+      "id": 1,
+      "naam": "Rear Naked Choke",
+      "categorie": "achterkant",
+      "moeilijkheidsgraad": "gemiddeld",
+      "trainingsfocus": "controle"
+    },
+    {
+      "id": 2,
+      "naam": "Armbar",
+      "categorie": "arm",
+      "moeilijkheidsgraad": "beginner",
+      "trainingsfocus": "isolatie"
+    },
+    {
+      "id": 3,
+      "naam": "Triangle Choke",
+      "categorie": "been",
+      "moeilijkheidsgraad": "gevorderd",
+      "trainingsfocus": "setup"
+    }
+    // Voeg 7+ meer toe...
+  ],
+  "posities": [
+    {
+      "id": 1,
+      "naam": "Mount",
+      "beschrijving": "Volledige controle bovenop"
+    },
+    {
+      "id": 2,
+      "naam": "Guard",
+      "beschrijving": "Verdediging vanaf onderen"
+    }
+    // Voeg meer posities toe...
+  ]
+}
