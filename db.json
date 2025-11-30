@@ -20,8 +20,56 @@
       "categorie": "been",
       "moeilijkheidsgraad": "gevorderd",
       "trainingsfocus": "setup"
+    },
+    {
+      "id": 4,
+      "naam": "Guillotine Choke",
+      "categorie": "nek",
+      "moeilijkheidsgraad": "beginner",
+      "trainingsfocus": "controle"
+    },
+    {
+      "id": 5,
+      "naam": "Kimura",
+      "categorie": "arm",
+      "moeilijkheidsgraad": "gemiddeld",
+      "trainingsfocus": "isolatie"
+    },
+    {
+      "id": 6,
+      "naam": "Americana",
+      "categorie": "schouder",
+      "moeilijkheidsgraad": "beginner",
+      "trainingsfocus": "isolatie"
+    },
+    {
+      "id": 7,
+      "naam": "Arm Triangle",
+      "categorie": "nek",
+      "moeilijkheidsgraad": "gemiddeld",
+      "trainingsfocus": "controle"
+    },
+    {
+      "id": 8,
+      "naam": "Darce Choke",
+      "categorie": "nek",
+      "moeilijkheidsgraad": "gevorderd",
+      "trainingsfocus": "setup"
+    },
+    {
+      "id": 9,
+      "naam": "Von Flue Choke",
+      "categorie": "nek",
+      "moeilijkheidsgraad": "gevorderd",
+      "trainingsfocus": "controle"
+    },
+    {
+      "id": 10,
+      "naam": "Omoplata",
+      "categorie": "schouder",
+      "moeilijkheidsgraad": "gevorderd",
+      "trainingsfocus": "isolatie"
     }
-    // Voeg 7+ meer toe...
   ],
   "posities": [
     {
@@ -33,7 +81,36 @@
       "id": 2,
       "naam": "Guard",
       "beschrijving": "Verdediging vanaf onderen"
+    },
+    {
+      "id": 3,
+      "naam": "Side Control",
+      "beschrijving": "Zijdelingse controle met druk"
+    },
+    {
+      "id": 4,
+      "naam": "Back Control",
+      "beschrijving": "Controle vanaf de achterkant"
+    },
+    {
+      "id": 5,
+      "naam": "Knee on Belly",
+      "beschrijving": "Knie op buik voor druk en transitie"
+    },
+    {
+      "id": 6,
+      "naam": "North South",
+      "beschrijving": "Noord-zuid positie met druk"
+    },
+    {
+      "id": 7,
+      "naam": "Turtle",
+      "beschrijving": "Verdedigende positie op handen en knieën"
+    },
+    {
+      "id": 8,
+      "naam": "Half Guard",
+      "beschrijving": "Halve guard met beenkontrole"
     }
-    // Voeg meer posities toe...
   ]
 }
